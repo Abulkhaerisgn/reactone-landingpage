@@ -10,15 +10,15 @@ module.exports = {
     extend: {
       colors: {
         ...colors,
-        ring: {
-          ...colors,
-        },
-        fill: {
-          ...colors,
-        },
-        fontFamily: {
-          sans: ["Poppins"],
-        },
+      },
+      ring: {
+        ...colors,
+      },
+      fill: {
+        ...colors,
+      },
+      fontFamily: {
+        sans: ["Poppins"],
       },
     },
   },
