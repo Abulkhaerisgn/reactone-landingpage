@@ -16,6 +16,7 @@ module.exports = {
       },
       fill: {
         ...colors,
+        "yellow-star": "#F3A939",
       },
       fontFamily: {
         sans: ["Poppins"],
